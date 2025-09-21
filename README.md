@@ -1,12 +1,5 @@
 <div align="center">
-
-# 🌟 你好，我是 米薩卡菌 (tamochii) 🌟
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%E7%A5%9E%E7%A7%98%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;Code+Enthusiast;Always+Learning" alt="Typing SVG" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=tamochii&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/tamochii)
-[![GitHub followers](https://img.shields.io/github/followers/tamochii?label=Followers&style=social)](https://github.com/tamochii?tab=followers)
-
+# ★彡 Hello 𝓉𝒶𝓂𝑜𝒸𝒽𝒾 desu !!! 彡★
 </div>
 
 ---

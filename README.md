@@ -32,11 +32,7 @@
 
 ## 🎵 正在听的音乐
 
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31xgbvqgzyl2iuxrdhsv3smqvjk4)
-
-</div>
+[![Peaceful Piano](https://i.scdn.co/image/ab67706f000000029ecec83a4e7f5f30d822d0ba)](https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO)
 
 ## 📝 我的博客
 

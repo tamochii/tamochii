@@ -30,21 +30,6 @@
 
 </div>
 
-## 📊 GitHub 统计
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamochii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamochii&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamochii&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
 ## 🎵 正在听的音乐
 
 <div align="center">
@@ -56,7 +41,7 @@
 ## 📝 我的博客
 
 <!-- BLOG-POST-LIST:START -->
-- (https://blog.tamochi.fun)
+- tamochi's blog(https://blog.tamochi.fun)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 社交媒体

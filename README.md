@@ -11,18 +11,6 @@
 
 ---
 
-## 🎯 关于我
-
-```yaml
-name: "米薩卡菌"
-location: "青岛, 山东省, 中国"
-company: "中国石油大学"
-blog: "blog.tamochi.fun"
-motto: "这个人很神秘，什么都没有写"
-interests: ["编程", "开源", "技术分享"]
-currently_learning: ["新技术栈", "软件工程"]
-```
-
 ## 🛠️ 技术栈
 
 <div align="center">
@@ -57,43 +45,18 @@ currently_learning: ["新技术栈", "软件工程"]
 
 </div>
 
-## 🎨 代码贡献热力图
-
-<div align="center">
-
-![tamochii's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tamochii&theme=tokyo-night)
-
-</div>
-
-## 🏆 GitHub 奖杯
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tamochii&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 🚀 精选项目
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamochii&repo=vscode&theme=tokyonight)](https://github.com/tamochii/vscode)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamochii&repo=Hello-Github&theme=tokyonight)](https://github.com/tamochii/Hello-Github)
-
-</div>
-
 ## 🎵 正在听的音乐
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/你的spotify用户名)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31xgbvqgzyl2iuxrdhsv3smqvjk4)
 
 </div>
 
-## 📝 最新博客文章
+## 📝 我的博客
 
 <!-- BLOG-POST-LIST:START -->
-- [敬请期待更多精彩内容...](https://blog.tamochi.fun)
+- (https://blog.tamochi.fun)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 社交媒体
@@ -102,16 +65,6 @@ currently_learning: ["新技术栈", "软件工程"]
 
 [![Blog](https://img.shields.io/badge/Blog-blog.tamochi.fun-blue?style=for-the-badge&logo=blogger)](https://blog.tamochi.fun)
 [![GitHub](https://img.shields.io/badge/GitHub-tamochii-181717?style=for-the-badge&logo=github)](https://github.com/tamochii)
-
-</div>
-
-## 💰 支持我的工作
-
-<div align="center">
-
-如果你喜欢我的项目，可以考虑给我买杯咖啡 ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support%20my%20work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tamochii)
 
 </div>
 

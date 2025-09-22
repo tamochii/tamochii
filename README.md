@@ -1,6 +1,14 @@
 <div align="center">
   
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header"/>
+  
+</div>
+
+<div align="center">
+  
 #  ★彡 𝓗𝓮𝓵𝓵𝓸 𝓉𝒶𝓂𝑜𝒸𝒽𝒾 𝓭𝓮𝓼𝓾  !!! 彡★
+
+📝 [Blog](https://blog.tamochi.fun) &nbsp; | &nbsp; 💻 [GitHub](https://github.com/tamochii) &nbsp; | &nbsp; 🎬 [Bilibili](https://space.bilibili.com/215003532) 
 
 </div>
 
@@ -27,16 +35,20 @@
 ![HyperOS](https://img.shields.io/badge/HyperOS-000000?style=for-the-badge&logo=xiaomi&logoColor=white)
 
 <h3>🏆 GitHub成就</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=tamochii&theme=radical&no-frame=true&row=1&column=6" alt="成就奖杯" width="100%">
 
-📝 [Blog](https://blog.tamochi.fun) &nbsp; | &nbsp; 💻 [GitHub](https://github.com/tamochii) &nbsp; | &nbsp; 🎬 [Bilibili](https://space.bilibili.com/215003532) 
+<img src="https://github-profile-trophy.vercel.app/?username=tamochii&theme=dafault&row=1&margin-w=15&column=6&no-bg=true&no-frame=true" width="100%">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamochii&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamochii&layout=compact&theme=default" />
+</div>
 
 </div>
 
 
+
 <div align="center">
 
-### ⚡ 𝓞𝓷𝓵𝔂 𝓜𝔂 𝓡𝓪𝓲𝓵𝓰𝓾𝓷 ⚡
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
 
 </div>

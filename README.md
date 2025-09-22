@@ -1,23 +1,8 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header"/>
-  
-</div>
 
-<div align="center">
-  
- <h3> 
-╔════╗╔══╗╔╗──╔╗╔══╗╔══╗╔╗╔╗╔══╗───╔══╗─╔═══╗╔══╗╔╗╔╗
-╚═╗╔═╝║╔╗║║║──║║║╔╗║║╔═╝║║║║╚╗╔╝───║╔╗╚╗║╔══╝║╔═╝║║║║
-──║║──║╚╝║║╚╗╔╝║║║║║║║──║╚╝║─║║────║║╚╗║║╚══╗║╚═╗║║║║
-──║║──║╔╗║║╔╗╔╗║║║║║║║──║╔╗║─║║────║║─║║║╔══╝╚═╗║║║║║
-──║║──║║║║║║╚╝║║║╚╝║║╚═╗║║║║╔╝╚╗───║╚═╝║║╚══╗╔═╝║║╚╝║
-──╚╝──╚╝╚╝╚╝──╚╝╚══╝╚══╝╚╝╚╝╚══╝───╚═══╝╚═══╝╚══╝╚══╝
- </h3>
-
-</div>
-
-<div align="center">
+ <h2> 
+   ⚡ 𝓽𝓪𝓶𝓸𝓬𝓱𝓲 𝓭𝓮𝓼𝓾 ⚡
+ </h2>
 
 📝 [Blog](https://blog.tamochi.fun) &nbsp; | &nbsp; 💻 [GitHub](https://github.com/tamochii) &nbsp; | &nbsp; 🎬 [Bilibili](https://space.bilibili.com/215003532) 
 
@@ -45,7 +30,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Raspberry Pi OS](https://img.shields.io/badge/Raspberry_Pi_OS-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
-<h3>🏆 GitHub成就</h3>
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=tamochii&theme=dafault&row=1&margin-w=15&column=6&no-bg=true&no-frame=true" width="100%">
 
@@ -55,8 +40,6 @@
 </div>
 
 </div>
-
-
 
 <div align="center">
 

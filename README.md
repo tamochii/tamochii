@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamochii&layout=compact&theme=default" />
 </div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=tamochii&theme=dafault&row=1&margin-w=15&column=6&no-bg=true&no-frame=true" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=tamochii&theme=onedark&row=1&margin-w=15&column=6&no-bg=true&no-frame=true" width="100%">
 
 </div>
 

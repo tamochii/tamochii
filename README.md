@@ -4,7 +4,7 @@
    ⚡ 𝓽𝓪𝓶𝓸𝓬𝓱𝓲 𝓭𝓮𝓼𝓾 ⚡
  </h2>
 
-📝 [Blog](https://blog.tamochi.fun) &nbsp; | &nbsp; 💻 [GitHub](https://github.com/tamochii) &nbsp; | &nbsp; 🎬 [Bilibili](https://space.bilibili.com/215003532) 
+📝 [Blog](https://blog.tamochi.cn) &nbsp; | &nbsp; 💻 [GitHub](https://github.com/tamochii) &nbsp; | &nbsp; 🎬 [Bilibili](https://space.bilibili.com/215003532) 
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)

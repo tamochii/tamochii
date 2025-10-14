@@ -4,7 +4,7 @@
    ⚡ 𝓽𝓪𝓶𝓸𝓬𝓱𝓲 𝓭𝓮𝓼𝓾 ⚡
  </h2>
  
-📝 [Blog](https://blog.tamochi.cn) &nbsp; |  &nbsp; 💻 [Tech](https://dev.tamochi.cn) &nbsp; | &nbsp; 🎬 [Bilibili](https://space.bilibili.com/215003532) 
+📝 [Blog](https://blog.tamochi.cn) &nbsp; |  &nbsp; 💻 [Tech](https://tamochii.github.io) &nbsp; | &nbsp; 🎬 [Bilibili](https://space.bilibili.com/215003532) 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tamochii&show_icons=true&theme=default" />

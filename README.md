@@ -17,7 +17,7 @@
 | **编程语言**|![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnubash&logoColor=white)|
 | **操作系统**|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=pcgamingwiki&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Raspberry Pi OS](https://img.shields.io/badge/Raspberry_Pi_OS-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white) ![Alpine](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)|
 
-<img src="https://github-profile-trophy.vercel.app/?username=tamochii&theme=onedark&row=1&margin-w=15&column=6&no-bg=true&no-frame=true" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=tamochii&theme=onedark&row=1&margin-w=15&column=7&no-bg=true&no-frame=true" width="100%">
 
 </div>
 

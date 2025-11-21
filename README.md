@@ -3,8 +3,6 @@
  <h2> 
    ⚡ 𝓽𝓪𝓶𝓸𝓬𝓱𝓲 𝓭𝓮𝓼𝓾 ⚡
  </h2>
- 
-📚 [Doc](https://doc.tamochi.cn) &nbsp; | ✏️ [Blog](https://blog.tamochi.cn) &nbsp; | 🍓 [Pi](https://pi.tamochi.fun)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tamochii&show_icons=true&theme=default" />

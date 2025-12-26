@@ -3,8 +3,12 @@
 </div>
 
 <div align="center">
+   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W11QZQM5)
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'W7W11QZQM5');kofiwidget2.draw();</script> 
+
 
 </div>

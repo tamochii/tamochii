@@ -4,7 +4,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
-
+  <samp>
+    <a href="https://www.tamochi.cn">blogus chii</a> .
+    <a href="https://space.bilibili.com/215003532">bilibili</a> .
+    <a href="mailto:chius.dev@outlook.com">email</a>
+  </samp>
 
 </div>

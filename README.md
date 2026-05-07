@@ -6,6 +6,6 @@
   <samp>
     <a href="https://blog.chius.cc">blogus chii</a> .
     <a href="https://space.bilibili.com/215003532">bilibili</a> .
-    <a href="mailto:chius.dev@outlook.com">chius.dev@outlook.com</a>
+    <a href="mailto:opensoucre@chius.cc">opensource@chius.cc</a>
   </samp>
 </div>

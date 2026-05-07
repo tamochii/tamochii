@@ -4,7 +4,7 @@
 
 <br> <div align="center">
   <samp>
-    <a href="https://blog.chius.cc">blogus chii</a> .
+    <a href="https://blog.chius.cc">test chii</a> .
     <a href="https://space.bilibili.com/215003532">bilibili</a> .
     <a href="mailto:opensoucre@chius.cc">opensource@chius.cc</a>
   </samp>

@@ -4,9 +4,10 @@
 
 <br> <div align="center">
   <samp>
-    <a href="mailto:opensoucre@chius.cc">opensource@chius.cc</a> .
-    <a href="https://social.chius.cc/@chius">gotosocial</a> .
-    <a href="https://blog.chius.cc/">blogus chii</a> .
-    <a href="https://space.bilibili.com/215003532">bilibili</a>
+    <a href="https://www.linkedin.com/in/chius-me/">LinkedIn</a> .
+    <a href="mailto:contact@chius.cc">contact@chius.cc</a> |
+    <a href="https://social.chius.cc/@chius">ActivityPub</a> .
+    <a href="https://blog.chius.cc/">Blog</a> .
+    <a href="https://space.bilibili.com/215003532">Bilibili</a>
   </samp>
 </div>

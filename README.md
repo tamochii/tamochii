@@ -1,5 +1,5 @@
 <br> <div align="center">
-  ⚡ 𝒸𝒽𝒾𝓊𝓈 𝒽𝑒𝓇𝑒 ⚡
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2000&color=ABB2BF&center=true&vCenter=true&width=400&lines=❯+curl+whoami.chius.cc" alt="Typing SVG" />
 </div>
 
 <br> <div align="center">

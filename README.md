@@ -5,12 +5,19 @@
 </div>
 
 <br> <div align="center">
-  <samp>
-    <a href="https://www.linkedin.com/in/chius-me/">linkedin</a> .
-    <a href="https://blog.chius.cc/">blog</a> .
-    <a href="mailto:contact@chius.cc">contact@chius.cc</a> |
-    <a href="https://social.chius.cc/@chius">activitypub</a> .
-    <a href="https://bsky.app/profile/chius.cc">bluesky</a> .
-    <a href="https://space.bilibili.com/215003532">bilibili</a>
-  </samp>
+  <a href="mailto:contact@chius.cc">
+    <img src="https://img.shields.io/badge/Email-contact@chius.cc-EA4335?style=flat-square&logo=minutemailer&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/chius-me/">
+    <img src="https://img.shields.io/badge/LinkedIn-Chius-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://social.chius.cc/@chius">
+    <img src="https://img.shields.io/badge/ActivityPub-@chius@social.chius.cc-6364FF?style=flat-square&logo=ActivityPub&logoColor=white" alt="ActivityPub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://blog.chius.cc/">
+    <img src="https://img.shields.io/badge/Blogus-Chii-C58940?style=flat-square&logo=readme&logoColor=white" alt="Blog" />
+  </a>
 </div>

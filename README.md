@@ -7,6 +7,7 @@
 <br> <div align="center">
   <samp>
     <a href="https://social.chius.cc/@chius">ActivityPub</a> .
-    <a href="https://blog.chius.cc/">Blog</a>
+    <a href="https://blog.chius.cc">Blog</a> .
+    <a href="https://space.bilibili.com/215003532">Bilibili</a>
   </samp>
 </div>

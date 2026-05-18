@@ -4,16 +4,9 @@
   </a>
 </div>
 
-<div align="center">
-  <p>
-    <a href="mailto:contact@chius.cc">
-      <img src="https://img.shields.io/badge/Email-contact@chius.cc-EA4335?style=flat-square&logo=minutemailer&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://social.chius.cc/@chius">
-      <img src="https://img.shields.io/badge/ActivityPub-@chius@social.chius.cc-6364FF?style=flat-square&logo=ActivityPub&logoColor=white" alt="ActivityPub" />
-    </a>
-    <a href="https://blog.chius.cc/">
-      <img src="https://img.shields.io/badge/Blogus-Chii-C58940?style=flat-square&logo=readme&logoColor=white" alt="Blog" />
-    </a>
-  </p>
+<br> <div align="center">
+  <samp>
+    <a href="https://social.chius.cc/@chius">ActivityPub</a> .
+    <a href="https://blog.chius.cc/">Blog</a>
+  </samp>
 </div>

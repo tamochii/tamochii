@@ -9,9 +9,6 @@
     <img src="https://img.shields.io/badge/Email-contact@chius.cc-EA4335?style=flat-square&logo=minutemailer&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/chius-me/">
-    <img src="https://img.shields.io/badge/LinkedIn-Chius-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   &nbsp;
   <a href="https://social.chius.cc/@chius">
     <img src="https://img.shields.io/badge/ActivityPub-@chius@social.chius.cc-6364FF?style=flat-square&logo=ActivityPub&logoColor=white" alt="ActivityPub" />

@@ -11,6 +11,7 @@
     <a href="https://github.com/chius-me">GitHub</a> .
     <a href="https://blog.chius.cc">Blog</a> .
     <a href="https://social.chius.cc/@chius">Fediverse</a> .
+	<a href="https://linkedin.com/in/chius-me">LinkedIn</a> .
     <a href="https://space.bilibili.com/215003532">Bilibili</a>
   </samp>
 </div>

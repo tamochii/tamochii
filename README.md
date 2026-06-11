@@ -7,8 +7,8 @@
 <br> <div align="center">
   <samp>
     <a href="mailto:contact@chius.cc">contact@chius.cc</a> .
-    <a href="https://chius.cc">Website</a> .
     <a href="https://github.com/chius-me">GitHub</a> .
+    <a href="https://chius.cc">Website</a> .
     <a href="https://blog.chius.cc">Blog</a> .
     <a href="https://social.chius.cc/@chius">Fediverse</a> .
 	<a href="https://linkedin.com/in/chius-me">LinkedIn</a> .

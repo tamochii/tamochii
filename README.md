@@ -6,7 +6,7 @@
 
 <br> <div align="center">
   <samp>
-    <a href="mailto:contact@chius.cc">contact@chius.cc</a> .
+    <a href="mailto:contact@chius.cc">i@chius.cc</a> .
     <a href="https://github.com/chius-me">GitHub</a> .
     <a href="https://chius.cc">Website</a> .
     <a href="https://blog.chius.cc">Blog</a> .
